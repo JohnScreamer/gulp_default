@@ -1,0 +1,25 @@
+.body{
+    width: 70px;
+    height: 150px;
+    background: rgb(61, 46, 139);
+    position: absolute;
+    left: 0;
+    top: 50%;
+
+}
+.root{
+background: seagreen;
+width: 500px;
+height: 400px;
+position: relative;
+
+}
+.rock{
+    width: 20px;
+    height: 20px;
+    background: rgb(249, 7, 7);
+    position: absolute;
+    left: 20%;
+    top: 50%;
+
+}
